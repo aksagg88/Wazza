@@ -12,10 +12,12 @@ import android.widget.TextView;
 
 import java.util.List;
 
+
 import com.bumptech.glide.Glide;
 
 /**
  * Created by enterprise on 2/23/18.
+ * new template
  */
 
 public class MessageAdapter extends ArrayAdapter<FriendlyMessage> {
